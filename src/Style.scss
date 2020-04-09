@@ -1,0 +1,19 @@
+$bg: #FF706B;
+
+body {
+    padding:         0;
+    margin:          0;
+    display:         flex;
+    align-items:     center;
+    justify-content: center;
+    height:          100vh;
+    width:           100vw;
+    background:      $bg;
+
+    .title {
+        font-size:   28px;
+        font-family: monospace;
+        color:       #FFFFFF;
+        text-align:  center;
+    }
+}
